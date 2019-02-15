@@ -9,8 +9,8 @@ put it in a *package* - like numpy, pandas, and the other great tools we depend
 on.
 
 A full production-grade library is a large undertaking, but this week we will
-build our own modest but still useful package with utility functions useful for
-common data science tasks. Behold, **lambdata**!
+build our own modest but still useful package with utility functions for common
+data science tasks. Behold, **lambdata**!
 
 ![Lamb](./lamb.jpg)
 
@@ -19,4 +19,4 @@ making the lambdata repo yourself - it will *not* be a fork, and you can have
 more independence and "creative control** in where you take it. You should still
 fork and open a PR to this repo, and edit this file to link to your lambdata.
 
-**My lambdata repository**: *you edit here*
+**My lambdata repository**: https://github.com/DanielleRomanoff/lambdata
