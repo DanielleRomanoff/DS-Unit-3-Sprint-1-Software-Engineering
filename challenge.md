@@ -224,6 +224,7 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
@@ -231,22 +232,16 @@ career here, you'll have to answer the following:
 Answer both of these questions (baseline ~5 sentences) here in text.
 
 #### Part 7 Answers
+  **If a person is struggling with one part of the code, the reviewer can help find the bug.**
+  **It was important for me to see comments. With the comments, I knew exactly what the code**
+  **was supposed to be doing. It was also nice to be able to give possibilities to make**
+  **the code better. The person being reviewed needed to be receptive to that and he was.**
 
-Code reviews are important as it possible bugs a chance to be found, especially
-where there are inputs that require a certain format that may not be clear to
-anyone but the code's creator. Documentation is also very important to look for
-in code review, as it enables people to be able to understand what a function or
-class does without having to try to infer it. The last thing to look for in code
-review is to ensure that it can install on a different machine easily, as often
-the setup code may not always include the right dependencies for full
-installation on a clean environment.
-
-Containers could help with that as it ensures that an application that can run
-on one computer should theoretically be able to run on all of them if it has
-been containerized. Also, if a network is created between all of the
-computers/servers, there are application that work with Docker that can assign
-containers to different computers according to need and can spool up or down
-containers as needed.
+  **Containers use a shared operating system so they are more efficient. They also give you the**
+  **ability to use Continuous Integration or Deployment. People can integrate their code into a shared**
+  **repository often and deploy the code quickly. Running applications becomes easier wherever you might**
+  **be because the virtual environment allows you to access it anywhere. It also enables you to isolate**
+  **code into a single container making it easier to modify and update.**
 
 ### Part 8 - Turn it in!
 
